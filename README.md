@@ -5,5 +5,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on home
-- 🌱 I’m currently learning c programme
+- I’m currently learning c programme from25.4.11
